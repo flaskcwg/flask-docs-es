@@ -28,7 +28,7 @@ packaging==20.9
     # via
     #   pallets-sphinx-themes
     #   sphinx
-pallets-sphinx-themes==2.0.1
+pallets-sphinx-themes==2.0.2
     # via -r requirements/docs.in
 pygments==2.9.0
     # via
@@ -42,10 +42,6 @@ requests==2.25.1
     # via sphinx
 snowballstemmer==2.1.0
     # via sphinx
-sphinx-issues==1.2.0
-    # via -r requirements/docs.in
-sphinx-tabs==3.0.0
-    # via -r requirements/docs.in
 sphinx==4.0.2
     # via
     #   -r requirements/docs.in
@@ -53,6 +49,10 @@ sphinx==4.0.2
     #   sphinx-issues
     #   sphinx-tabs
     #   sphinxcontrib-log-cabinet
+sphinx-issues==1.2.0
+    # via -r requirements/docs.in
+sphinx-tabs==3.0.0
+    # via -r requirements/docs.in
 sphinxcontrib-applehelp==1.0.2
     # via sphinx
 sphinxcontrib-devhelp==1.0.2
