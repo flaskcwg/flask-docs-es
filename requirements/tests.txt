@@ -5,7 +5,7 @@
 #
 #    pip-compile-multi
 #
-asgiref==3.4.1
+asgiref==3.5.0
     # via -r requirements/tests.in
 attrs==21.4.0
     # via pytest

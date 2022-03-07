@@ -1,5 +1,5 @@
 pytest<7
-asgiref<3.5
+asgiref<3.6
 blinker
 greenlet ; python_version < "3.11"
 python-dotenv
