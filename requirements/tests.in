@@ -1,4 +1,4 @@
-pytest<7
+pytest<8
 asgiref<3.5
 blinker
 greenlet ; python_version < "3.11"
