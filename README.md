@@ -13,10 +13,10 @@ Primero que todo, ¡Gracias por tomarte el tiempo de contribuir a la documentaci
 
 ## ¿Cómo contribuir?
 
-1. Clona este repositorio en tu máquina local.
-2. Abre un archivo de traducción con Poedit.
-3. Realiza tus traducciones en el archivo.
-4. Crea un Pull Request con el título: “Traducción de <nombre_del_archivo>”.
+1. Crea un [Issue](https://github.com/flaskcwg/flask-docs-es/issues/new?assignees=&labels=&projects=&template=request-file.md) con el título: “Quiero traducir <nombre_del_archivo>”. De esta forma nadie más podrá tomarlo hasta que termines la traducción o abandones el proceso.
+2. Clona este repositorio en tu máquina local.
+3. Realiza tus traducciones usando Poedit.
+4. Abre un Pull Request para subir tu Traducción.
     Importante: Solo se permitirá un archivo por Pull Request.
 5. Espera a que se revise y apruebe tu Pull Request.
 6. ¡Gracias por ayudar a traducir Flask al Español! 😊
