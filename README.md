@@ -2,7 +2,7 @@
 
 [![Estado de la documentación](https://readthedocs.org/projects/flask-es/badge/?version=main)](https://flask-es.readthedocs.io/?badge=main)
 ![Progreso de traducción](https://jalkhov.github.io/docspro/badge/es_progress.svg)
-[![Última sincronización con Flask](https://img.shields.io/static/v1?label=last%20sync%20with%20Flask&message=10-05-2024&color=cyan)](https://github.com/pallets/flask/search?o=desc&q=author-date%3A%3E2024-05-10&s=committer-date&type=Commits)
+[![Última sincronización con Flask](https://img.shields.io/static/v1?label=last%20sync%20with%20Flask&message=11-05-2024&color=cyan)](https://github.com/pallets/flask/search?o=desc&q=author-date%3A%3E2024-05-11&s=committer-date&type=Commits)
 
 Primero que todo, ¡Gracias por tomarte el tiempo de contribuir a la documentación de Flask, bienvenido!
 
