@@ -2,7 +2,7 @@
 
 [![Estado de la documentación](https://readthedocs.org/projects/flask-es/badge/?version=main)](https://flask-es.readthedocs.io/?badge=main)
 ![Progreso de traducción](https://jalkhov.github.io/docspro/badge/es_progress.svg)
-[![Última sincronización con Flask](https://img.shields.io/static/v1?label=last%20sync%20with%20Flask&message=11-05-2024&color=cyan)](https://github.com/pallets/flask/search?o=desc&q=author-date%3A%3E2024-05-11&s=committer-date&type=Commits)
+[![Última sincronización con Flask](https://img.shields.io/static/v1?label=last%20sync%20with%20Flask&message=10-05-2024&color=cyan)](https://github.com/pallets/flask/search?o=desc&q=author-date%3A%3E2024-05-10&s=committer-date&type=Commits)
 
 Primero que todo, ¡Gracias por tomarte el tiempo de contribuir a la documentación de Flask, bienvenido!
 
@@ -13,10 +13,10 @@ Primero que todo, ¡Gracias por tomarte el tiempo de contribuir a la documentaci
 
 ## ¿Cómo contribuir?
 
-1. Crea un [Issue](https://github.com/flaskcwg/flask-docs-es/issues/new?assignees=&labels=&projects=&template=request-file.md) con el título: “Quiero traducir <nombre_del_archivo>”. De esta forma nadie más podrá tomarlo hasta que termines la traducción o abandones el proceso.
-2. Clona este repositorio en tu máquina local.
-3. Realiza tus traducciones usando Poedit.
-4. Abre un Pull Request para subir tu Traducción.
+1. Clona este repositorio en tu máquina local.
+2. Abre un archivo de traducción con Poedit.
+3. Realiza tus traducciones en el archivo.
+4. Crea un Pull Request con el título: “Traducción de <nombre_del_archivo>”.
     Importante: Solo se permitirá un archivo por Pull Request.
 5. Espera a que se revise y apruebe tu Pull Request.
 6. ¡Gracias por ayudar a traducir Flask al Español! 😊
@@ -33,7 +33,7 @@ Primero que todo, ¡Gracias por tomarte el tiempo de contribuir a la documentaci
 | \async-await.po                     | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
 | \becomingbig.po                     | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
 | \blueprints.po                      | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \changes.po                         | NO (166 restantes)    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| \changes.po                         | NO (194 restantes)    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
 | \cli.po                             | NO (21 restantes)     | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
 | \config.po                          | NO (13 restantes)     | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
 | \contributing.po                    | NO (11 restantes)     | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
