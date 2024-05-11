@@ -54,7 +54,7 @@ community-maintained extensions to add even more functionality.
    server
    shell
    patterns/index
-   web-security
+   security
    deploying/index
    async-await
 

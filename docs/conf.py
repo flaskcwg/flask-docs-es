@@ -11,22 +11,16 @@ release, version = get_version("Flask")
 
 # General --------------------------------------------------------------
 
-default_role = "code"
+master_doc = "index"
 extensions = [
     "sphinx.ext.autodoc",
-    "sphinx.ext.extlinks",
     "sphinx.ext.intersphinx",
     "sphinxcontrib.log_cabinet",
-    "sphinx_tabs.tabs",
     "pallets_sphinx_themes",
+    "sphinx_issues",
+    "sphinx_tabs.tabs",
 ]
-autodoc_member_order = "bysource"
 autodoc_typehints = "description"
-autodoc_preserve_defaults = True
-extlinks = {
-    "issue": ("https://github.com/pallets/flask/issues/%s", "#%s"),
-    "pr": ("https://github.com/pallets/flask/pull/%s", "#%s"),
-}
 intersphinx_mapping = {
     "python": ("https://docs.python.org/3/", None),
     "werkzeug": ("https://werkzeug.palletsprojects.com/", None),
@@ -37,6 +31,7 @@ intersphinx_mapping = {
     "wtforms": ("https://wtforms.readthedocs.io/", None),
     "blinker": ("https://blinker.readthedocs.io/", None),
 }
+issues_github_path = "pallets/flask"
 
 # HTML -----------------------------------------------------------------
 
@@ -44,11 +39,16 @@ html_theme = "flask"
 html_theme_options = {"index_sidebar_logo": False}
 html_context = {
     "project_links": [
-        ProjectLink("Donate", "https://palletsprojects.com/donate"),
-        ProjectLink("PyPI Releases", "https://pypi.org/project/Flask/"),
-        ProjectLink("Source Code", "https://github.com/pallets/flask/"),
-        ProjectLink("Issue Tracker", "https://github.com/pallets/flask/issues/"),
+        ProjectLink("Donar", "https://palletsprojects.com/donate"),
+        ProjectLink("Publicaciones en PyPI", "https://pypi.org/project/Flask/"),
+        ProjectLink("Código fuente", "https://github.com/pallets/flask/"),
+        ProjectLink(
+            "Seguimiento de problemas", "https://github.com/pallets/flask/issues/"
+        ),
         ProjectLink("Chat", "https://discord.gg/pallets"),
+        ProjectLink(
+            "Participar en la traducción", "https://github.com/flaskcwg/flask-docs-es"
+        ),
     ]
 }
 html_sidebars = {
@@ -59,8 +59,12 @@ singlehtml_sidebars = {"index": ["project.html", "localtoc.html", "ethicalads.ht
 html_static_path = ["_static"]
 html_favicon = "_static/shortcut-icon.png"
 html_logo = "_static/flask-vertical.png"
-html_title = f"Flask Documentation ({version})"
+html_title = f"Documentación de Flask ({version})"
 html_show_sourcelink = False
+
+# LaTeX ----------------------------------------------------------------
+
+latex_documents = [(master_doc, f"Flask-{version}.tex", html_title, author, "manual")]
 
 # Local Extensions -----------------------------------------------------
 
@@ -95,3 +99,11 @@ def github_link(name, rawtext, text, lineno, inliner, options=None, content=None
 
 def setup(app):
     app.add_role("gh", github_link)
+
+
+# Translation ----------------------------------------------------------
+
+locale_dirs = ["locales"]
+gettext_compact = False
+language = "es"
+html_search_language = "es"

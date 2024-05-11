@@ -410,8 +410,8 @@ from a TOML file:
 
 .. code-block:: python
 
-    import tomllib
-    app.config.from_file("config.toml", load=tomllib.load, text=False)
+    import toml
+    app.config.from_file("config.toml", load=toml.load)
 
 Or from a JSON file:
 
