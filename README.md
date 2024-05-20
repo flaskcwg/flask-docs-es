@@ -103,7 +103,7 @@ Primero que todo, ¡Gracias por tomarte el tiempo de contribuir a la documentaci
 | \tutorial\deploy.po                 | NO (3 restantes)      | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
 | \tutorial\factory.po                | NO (2 restantes)      | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
 | \tutorial\index.po                  | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \tutorial\install.po                | NO (6 restantes)      | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| \tutorial\install.po                | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
 | \tutorial\layout.po                 | NO (1 restantes)      | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
 | \tutorial\next.po                   | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
 | \tutorial\static.po                 | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
