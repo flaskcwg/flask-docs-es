@@ -108,7 +108,7 @@ Primero que todo, ¡Gracias por tomarte el tiempo de contribuir a la documentaci
 | \tutorial\next.po                   | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
 | \tutorial\static.po                 | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
 | \tutorial\templates.po              | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \tutorial\tests.po                  | NO (2 restantes)      | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| \tutorial\tests.po                  | SÍ                    | Luis Alday <alday87@gmail.com>             |
 | \tutorial\views.po                  | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
 | \views.po                           | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
 | \web-security.po                    | NO (58 restantes)     | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
