@@ -1,0 +1,33 @@
+name: Actualizar README
+
+on:
+  push:
+    paths:
+      - 'docs/**' # Se activa cuando se modifica algo en la carpeta "docs"
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout código
+        uses: actions/checkout@v2
+
+      - name: Configurar Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.x
+
+      - name: Instalar dependencias
+        run: pip install -r potools/requirements.txt
+
+      - name: Ejecutar script
+        run: python readme_update.py
+
+      - name: Confirmar el README.md
+        uses: EndBug/add-and-commit@v9
+        with:
+          committer_name: GitHub Actions
+          committer_email: actions@github.com
+          add: .
+          message: 'Actualiza información de los archivos .po'
