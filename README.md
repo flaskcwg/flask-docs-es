@@ -111,4 +111,4 @@ Primero que todo, ¡Gracias por tomarte el tiempo de contribuir a la documentaci
 | /tutorial/tests.po                  | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
 | /tutorial/views.po                  | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
 | /views.po                           | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| /web-security.po                    | NO (58 restantes)     | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /web-security.po                    | SÍ                    | Luis Alday <alday87@gmail.com>             |
