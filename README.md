@@ -74,12 +74,12 @@ Primero que todo, ¡Gracias por tomarte el tiempo de contribuir a la documentaci
 | \patterns\fileuploads.po            | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
 | \patterns\flashing.po               | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
 | \patterns\index.po                  | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \patterns\javascript.po             | NO (1 restantes)      | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| \patterns\javascript.po             | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
 | \patterns\jquery.po                 | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
 | \patterns\lazyloading.po            | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
 | \patterns\methodoverrides.po        | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
 | \patterns\mongoengine.po            | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \patterns\packages.po               | NO (1 restantes)      | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| \patterns\packages.po               | SÍ                    | Luis Alday <alday87@gmail.com>             |
 | \patterns\requestchecksum.po        | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
 | \patterns\singlepageapplications.po | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
 | \patterns\sqlalchemy.po             | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
@@ -100,15 +100,15 @@ Primero que todo, ¡Gracias por tomarte el tiempo de contribuir a la documentaci
 | \testing.po                         | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
 | \tutorial\blog.po                   | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
 | \tutorial\database.po               | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \tutorial\deploy.po                 | NO (1 restantes)      | Luis Alday <alday87@gmail.com>             |
+| \tutorial\deploy.po                 | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
 | \tutorial\factory.po                | SÍ                    | Luis Alday <alday87@gmail.com>             |
 | \tutorial\index.po                  | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \tutorial\install.po                | NO (4 restantes)      | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \tutorial\layout.po                 | NO (1 restantes)      | Luis Alday <alday87@gmail.com>             |
+| \tutorial\install.po                | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| \tutorial\layout.po                 | SÍ                    | Luis Alday <alday87@gmail.com>             |
 | \tutorial\next.po                   | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
 | \tutorial\static.po                 | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
 | \tutorial\templates.po              | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \tutorial\tests.po                  | NO (1 restantes)      | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| \tutorial\tests.po                  | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
 | \tutorial\views.po                  | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
 | \views.po                           | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
 | \web-security.po                    | NO (58 restantes)     | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
