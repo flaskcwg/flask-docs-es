@@ -66,7 +66,7 @@ Primero que todo, ¡Gracias por tomarte el tiempo de contribuir a la documentaci
 | /patterns/appdispatch.po            | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
 | /patterns/appfactories.po           | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
 | /patterns/caching.po                | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| /patterns/celery.po                 | NO (31 restantes)     | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /patterns/celery.po                 | SÍ                    | Luis Alday <alday87@gmail.com>             |
 | /patterns/deferredcallbacks.po      | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
 | /patterns/distribute.po             | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
 | /patterns/fabric.po                 | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
