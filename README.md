@@ -27,88 +27,88 @@ Primero que todo, ¡Gracias por tomarte el tiempo de contribuir a la documentaci
 
 | Archivo                             | Traducción completa   | Último traductor                           |
 |-------------------------------------|-----------------------|--------------------------------------------|
-| \advanced_foreword.po               | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \api.po                             | NO (185 restantes)    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \appcontext.po                      | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \async-await.po                     | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \becomingbig.po                     | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \blueprints.po                      | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \changes.po                         | NO (194 restantes)    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \cli.po                             | NO (21 restantes)     | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \config.po                          | NO (13 restantes)     | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \contributing.po                    | NO (11 restantes)     | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \debugging.po                       | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \deploying\apache-httpd.po          | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \deploying\asgi.po                  | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \deploying\cgi.po                   | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \deploying\eventlet.po              | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \deploying\fastcgi.po               | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \deploying\gevent.po                | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \deploying\gunicorn.po              | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \deploying\index.po                 | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \deploying\mod_wsgi.po              | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \deploying\nginx.po                 | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \deploying\proxy_fix.po             | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \deploying\uwsgi.po                 | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \deploying\waitress.po              | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \deploying\wsgi-standalone.po       | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \design.po                          | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \errorhandling.po                   | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \extensiondev.po                    | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \extensions.po                      | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \foreword.po                        | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \htmlfaq.po                         | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \index.po                           | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \installation.po                    | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \license.po                         | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \lifecycle.po                       | NO (61 restantes)     | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \logging.po                         | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \patterns\appdispatch.po            | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \patterns\appfactories.po           | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \patterns\caching.po                | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \patterns\celery.po                 | NO (31 restantes)     | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \patterns\deferredcallbacks.po      | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \patterns\distribute.po             | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \patterns\fabric.po                 | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \patterns\favicon.po                | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \patterns\fileuploads.po            | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \patterns\flashing.po               | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \patterns\index.po                  | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \patterns\javascript.po             | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \patterns\jquery.po                 | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \patterns\lazyloading.po            | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \patterns\methodoverrides.po        | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \patterns\mongoengine.po            | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \patterns\packages.po               | SÍ                    | Luis Alday <alday87@gmail.com>             |
-| \patterns\requestchecksum.po        | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \patterns\singlepageapplications.po | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \patterns\sqlalchemy.po             | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \patterns\sqlite3.po                | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \patterns\streaming.po              | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \patterns\subclassing.po            | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \patterns\templateinheritance.po    | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \patterns\urlprocessors.po          | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \patterns\viewdecorators.po         | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \patterns\wtforms.po                | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \quickstart.po                      | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \reqcontext.po                      | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \security.po                        | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \server.po                          | SÍ                    | Luis Alday <alday87@gmail.com>             |
-| \shell.po                           | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \signals.po                         | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \templating.po                      | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \testing.po                         | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \tutorial\blog.po                   | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \tutorial\database.po               | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \tutorial\deploy.po                 | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \tutorial\factory.po                | SÍ                    | Luis Alday <alday87@gmail.com>             |
-| \tutorial\index.po                  | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \tutorial\install.po                | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \tutorial\layout.po                 | SÍ                    | Luis Alday <alday87@gmail.com>             |
-| \tutorial\next.po                   | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \tutorial\static.po                 | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \tutorial\templates.po              | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \tutorial\tests.po                  | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \tutorial\views.po                  | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \views.po                           | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
-| \web-security.po                    | NO (58 restantes)     | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /advanced_foreword.po               | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /api.po                             | NO (185 restantes)    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /appcontext.po                      | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /async-await.po                     | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /becomingbig.po                     | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /blueprints.po                      | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /changes.po                         | NO (194 restantes)    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /cli.po                             | NO (21 restantes)     | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /config.po                          | NO (13 restantes)     | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /contributing.po                    | NO (11 restantes)     | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /debugging.po                       | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /deploying/apache-httpd.po          | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /deploying/asgi.po                  | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /deploying/cgi.po                   | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /deploying/eventlet.po              | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /deploying/fastcgi.po               | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /deploying/gevent.po                | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /deploying/gunicorn.po              | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /deploying/index.po                 | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /deploying/mod_wsgi.po              | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /deploying/nginx.po                 | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /deploying/proxy_fix.po             | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /deploying/uwsgi.po                 | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /deploying/waitress.po              | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /deploying/wsgi-standalone.po       | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /design.po                          | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /errorhandling.po                   | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /extensiondev.po                    | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /extensions.po                      | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /foreword.po                        | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /htmlfaq.po                         | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /index.po                           | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /installation.po                    | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /license.po                         | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /lifecycle.po                       | NO (61 restantes)     | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /logging.po                         | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /patterns/appdispatch.po            | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /patterns/appfactories.po           | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /patterns/caching.po                | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /patterns/celery.po                 | NO (31 restantes)     | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /patterns/deferredcallbacks.po      | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /patterns/distribute.po             | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /patterns/fabric.po                 | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /patterns/favicon.po                | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /patterns/fileuploads.po            | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /patterns/flashing.po               | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /patterns/index.po                  | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /patterns/javascript.po             | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /patterns/jquery.po                 | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /patterns/lazyloading.po            | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /patterns/methodoverrides.po        | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /patterns/mongoengine.po            | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /patterns/packages.po               | SÍ                    | Luis Alday <alday87@gmail.com>             |
+| /patterns/requestchecksum.po        | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /patterns/singlepageapplications.po | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /patterns/sqlalchemy.po             | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /patterns/sqlite3.po                | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /patterns/streaming.po              | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /patterns/subclassing.po            | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /patterns/templateinheritance.po    | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /patterns/urlprocessors.po          | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /patterns/viewdecorators.po         | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /patterns/wtforms.po                | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /quickstart.po                      | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /reqcontext.po                      | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /security.po                        | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /server.po                          | SÍ                    | Luis Alday <alday87@gmail.com>             |
+| /shell.po                           | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /signals.po                         | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /templating.po                      | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /testing.po                         | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /tutorial/blog.po                   | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /tutorial/database.po               | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /tutorial/deploy.po                 | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /tutorial/factory.po                | SÍ                    | Luis Alday <alday87@gmail.com>             |
+| /tutorial/index.po                  | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /tutorial/install.po                | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /tutorial/layout.po                 | SÍ                    | Luis Alday <alday87@gmail.com>             |
+| /tutorial/next.po                   | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /tutorial/static.po                 | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /tutorial/templates.po              | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /tutorial/tests.po                  | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /tutorial/views.po                  | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /views.po                           | SÍ                    | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
+| /web-security.po                    | NO (58 restantes)     | Pedro Torcatt <pedrotorcattsoto@gmail.com> |
