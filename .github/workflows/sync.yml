@@ -1,0 +1,21 @@
+name: 'Example: Update Sphinx Translations'
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  update-translations:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout the repository
+      uses: actions/checkout@v1
+
+    - name: Update translations
+      uses: flaskcwg/sphinx-translate-sync@1.0.0
+      with:
+        source_repo: 'https://github.com/pallets/flask'
+        target_branch: 'main'
+        languages: 'es'
